@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hello! 👋 I’m Beth, an award-winning business communicator and graphic designer with 20 years of experience meeting deadlines and achieving results.
 
-I'm Beth! 
+After working in HMTL, WordPress and the Adobe Creative Suite throughout my career, I leveled up my web development skills and completed an Associate of Applied Science degree in Web Development and Digital Media in 2022.
+
+- 🔭 I’m currently working on my [portfolio website](https://kapp.blog/)
+- 🙌 I'm volunteering regularly for nonprofits
+- 🌱 I'm practicing and learning new skills
+- :airplane: I'm dreaming of my next big trip
+- 😄 Pronouns: she/her/hers
 
 <!--
 **beth-kapp/beth-kapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
