@@ -1,8 +1,12 @@
-### Hello! 👋 I’m Beth, an award-winning business communicator and graphic designer with 20 years of experience meeting deadlines and achieving results.
+### Hello! 👋 I’m Beth, an award-winning marketing/communications specialist and graphic designer with 10+ years of experience in HTML, email marketing and WordPress and 3 years of experience in administering and developing Salesforce/Marketing Cloud Account Engagement. I'm skilled at meeting deadlines and achieving results.
 
-After working in HMTL, WordPress and the Adobe Creative Suite throughout my career, I leveled up my web development skills and completed an Associate of Applied Science degree in Web Development and Digital Media in 2022.
+Tools/software/web development languages: 
+- HTML5, CSS3, JavaScript, WordPress and Elementor, PHP and MySQL, jQuery, APIs
+- Adobe Creative Suite (XD, InDesign, Illustrator and Photoshop)
+- Visual Studio Code 
+- Salesforce and Marketing Cloud Account Engagement (Pardot) development and administration, Salesforce Object Query Language (SOQL)
 
-- 🙌 I'm working as a Salesforce administrator and business communicator and volunteering regularly for nonprofits
+- 🙌 I'm working as a Salesforce administrator and marketing/communications specialist and volunteering regularly for nonprofits
 - 🌱 I'm practicing and learning new skills. View my [portfolio website](https://kapp.blog/)
 - :airplane: I'm dreaming of my next big trip
 - 😄 Pronouns: she/her/hers
